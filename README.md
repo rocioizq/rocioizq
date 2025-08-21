@@ -11,7 +11,7 @@
 ## 🏆 Mi progreso
 
 ### TryHackMe
-![TryHackMe Badge](https://tryhackme-badges.s3.amazonaws.com/2618055.png)
+![TryHackMe Badge](tryhackme-badges.s3.amazonaws.com/arrowregui.png)
 
 <!--
 **rocioizq/rocioizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
