@@ -8,10 +8,7 @@
 - Documentando mi progreso y aprendizajes en GitHub.  
 - Explorando distintas ramas de la ciberseguridad: **SOC, Red Team, análisis forense, seguridad en la nube**.  
 
-## 🏆 Mi progreso
 
-### TryHackMe
-![TryHackMe Badge](tryhackme-badges.s3.amazonaws.com/arrowregui.png)
 
 <!--
 **rocioizq/rocioizq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
