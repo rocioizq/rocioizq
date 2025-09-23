@@ -4,7 +4,7 @@
 🌱 He explorado un poco el mundo del **desarrollo frontend**, pero ahora quiero adentrarme en la **ciberseguridad** para descubrir en qué área me siento más cómoda y quiero crecer profesionalmente.  
 
 ## 🚀 Actualmente
-- Practicando en plataformas como **OverTheWire** y **TryHackMe**.  
+- Practicando en plataformas como **OverTheWire**, **picoCTF** y **TryHackMe**.  
 - Documentando mi progreso y aprendizajes en GitHub.  
 - Explorando distintas ramas de la ciberseguridad: **SOC, Red Team, análisis forense, seguridad en la nube**.  
 
